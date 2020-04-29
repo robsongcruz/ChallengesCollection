@@ -1,0 +1,14 @@
+Inconsistent
+Inconsistent
+2
+1
+2
+3
+3
+4
+6
+6
+10
+58
+Inconsistent
+508

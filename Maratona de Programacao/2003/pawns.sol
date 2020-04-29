@@ -1,0 +1,13 @@
+1
+impossible
+3
+impossible
+impossible
+3
+7
+2
+3
+impossible
+impossible
+impossible
+impossible
